@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-1979-cover-the-authorisation-path-of-batch-lock",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1979-cover-the-authorisation-path-of-batch-lock": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-1979-cover-the-authorisation-path-of-batch-lock",
+    "origin"
+  ]
+}
