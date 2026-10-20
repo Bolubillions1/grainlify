@@ -3530,6 +3530,9 @@ mod test_conversion;
 mod test_gas_ci_thresholds;
 
 #[cfg(test)]
+mod test_batch_lock_funds_soa_auth;
+
+#[cfg(test)]
 mod test_update_metadata_lifecycle;
 
 #[contractclient(name = "RouterClient")]
